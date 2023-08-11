@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(40, 43, 247);
+    position: relative;
+}
+
+h1{
+    font-size: xxx-large;
+    text-align: center;
+    font-family: 'Arial', Courier, monospace;
+    color: white;
+    margin-top: 15%;
+}
+
+p{
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Arial', Courier, monospace;
+    color: white;
+}
+input{
+    text-align: center;
+    display: flex;
+    margin-left: 620px;
+    padding: 5px;
+}
+button{
+    padding: 4px;
+    position: relative;
+    top: 50%;
+    left: 599px;
+   
+
+
+ 
+}
