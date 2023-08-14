@@ -1,6 +1,5 @@
 body{
     background-color: rgb(40, 43, 247);
-    position: relative;
 }
 
 h1{
@@ -9,6 +8,7 @@ h1{
     font-family: 'Arial', Courier, monospace;
     color: white;
     margin-top: 15%;
+    margin-left: 7%;
 }
 
 p{
@@ -16,6 +16,7 @@ p{
     text-align: center;
     font-family: 'Arial', Courier, monospace;
     color: white;
+    margin-left: 7%;
 }
 input{
     text-align: center;
@@ -28,8 +29,4 @@ button{
     position: relative;
     top: 50%;
     left: 599px;
-   
-
-
- 
 }
